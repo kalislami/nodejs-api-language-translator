@@ -4,6 +4,7 @@
   "description": "api for translate all languages (auto detect) to bahasa indonesia",
   "main": "src/main.js",
   "scripts": {
+    "start": "node app.js",
     "test": "jest -i"
   },
   "jest": {

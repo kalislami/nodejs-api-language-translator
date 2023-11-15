@@ -1,5 +1,5 @@
-import {web} from "./application/web.js";
-import {logger} from "./application/logging.js";
+import {web} from "./src/application/web.js";
+import {logger} from "./src/application/logging.js";
 
 const port = process.env.PORT || 3000;
 
