@@ -5,7 +5,7 @@ export const sendRequest = async (endpoin = '', method, reqData) => {
         headers: {
             'content-type': 'application/x-www-form-urlencoded',
             'Accept-Encoding': 'application/gzip',
-            'X-RapidAPI-Key': 'masukkan-api-key-disini',
+            'X-RapidAPI-Key': '47d8d2a474msha9e28c873901f23p18e244jsn031dceb39e79',
             'X-RapidAPI-Host': 'google-translate1.p.rapidapi.com'
         },
         body: new URLSearchParams(reqData)
